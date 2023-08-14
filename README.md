@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Kumar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepkumar05&label=Profile%20views&color=0e75b6&style=flat" alt="deepkumar05" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepkumar05" alt="deepkumar05" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://portfolio-ashen-pi-52.vercel.app/](https://portfolio-ashen-pi-52.vercel.app/)
 
 - 📫 How to reach me **ddeepanshukumar16@gmail.com**
