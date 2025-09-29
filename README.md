@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Kumar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [deep-portfolio-seven.vercel.app](deep-portfolio-seven.vercel.app)
+- 👨‍💻 All of my projects are available at [https://deep-portfolio-seven.vercel.app/](https://deep-portfolio-seven.vercel.app/)
 
 - 📫 How to reach me **ddeepanshukumar16@gmail.com**
 
